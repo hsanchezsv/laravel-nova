@@ -14,7 +14,16 @@
     "@vue/compiler-sfc": "^3.2.22",
     "laravel-mix": "^6.0.41",
     "postcss": "^8.3.11",
-    "vue-loader": "^16.8.3"
+    "sass": "^1.53.0",
+    "sass-loader": "^13.0.2",
+    "vue-loader": "^16.8.3",
+    "webpack": "^5.73.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@popperjs/core": "^2.11.5",
+    "jump.js": "^1.0.2",
+    "vue": "^3.2.37",
+    "vue-tour": "^2.0.0",
+    "vue3-tour": "^0.2.0"
+  }
 }
