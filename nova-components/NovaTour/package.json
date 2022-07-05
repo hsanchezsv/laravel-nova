@@ -11,6 +11,7 @@
     "nova:install": "npm --prefix='../../vendor/laravel/nova' ci"
   },
   "devDependencies": {
+    "@types/intro.js": "^5.1.0",
     "@vue/compiler-sfc": "^3.2.22",
     "laravel-mix": "^6.0.41",
     "postcss": "^8.3.11",
@@ -21,9 +22,8 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.11.5",
+    "intro.js": "^5.1.0",
     "jump.js": "^1.0.2",
-    "vue": "^3.2.37",
-    "vue-tour": "^2.0.0",
-    "vue3-tour": "^0.2.0"
+    "vue": "^3.2.37"
   }
 }

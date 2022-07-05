@@ -28,8 +28,6 @@ class NovaTour extends Tool
      */
     public function menu(Request $request)
     {
-        return MenuSection::make('Nova Tour')
-            ->path('/nova-tour')
-            ->icon('server');
+        return false;
     }
 }
